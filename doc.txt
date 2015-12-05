@@ -1,0 +1,1 @@
+Orange color: #ff6633;
