@@ -858,3 +858,7 @@ ul, li {
 .before-list {
 	  margin-bottom: 0px;
 }
+/*---*/
+.cirlceWindowHeight {
+	height: 900px;
+}
